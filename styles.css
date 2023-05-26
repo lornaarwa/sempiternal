@@ -1,0 +1,30 @@
+.h1{
+    margin: 15px;
+    line-height: 1.2;
+    color: gray;
+    padding: 0 15px;
+}
+.section{
+    padding: 0 15px 0 15px;
+    position: relative;
+}
+.secton input[type=text]{
+    margin: 0 0 15px 0;
+    -webkit-appearance: none;
+    appearance: none;
+    background: #fcfcfc;
+    color: black;
+    border: 1px solid #fcfcfc;
+    border-radius: 1px;
+    padding: 5px;
+    font-size: 14pt;
+    outline: none;
+    float: left;
+    width: calc(100%-50px);
+    cursor: pointer;
+    -webkit-user-select: text;
+    -moz-user-select: text;
+    -ms-user-select: text;
+    -o-user-select: text;
+    user-select: text;
+}

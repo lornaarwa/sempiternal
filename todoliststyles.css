@@ -165,3 +165,17 @@ button{
  ul li.checked::before{
      background-image: ;
  }
+ul li span{
+    position: absolute;
+    right: 0;
+    top: 5px;
+    width: 40px;
+    height:40px;
+    font-size: 22px;
+    colour: #555;
+    line-height: 40px;
+    text-align: centre;
+}
+ul li span:hover{
+    background: #edeef0;
+}

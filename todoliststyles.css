@@ -175,6 +175,7 @@ ul li span{
     colour: #555;
     line-height: 40px;
     text-align: centre;
+    border-radius:50%;
 }
 ul li span:hover{
     background: #edeef0;

@@ -87,7 +87,7 @@ header .current-date{
     transform: translate(-50%, -50%);
 }
 .days li.active::before{
-    background: #9B59B6;
+    background: blueviolet;
 }
 .days li:not(.active):hover::before{
     background: #f2f2f2;
@@ -133,7 +133,7 @@ button{
     border: none;
     outline: none;
     padding: 16px 50px;
-    background: #ff5945;
+    background: blueviolet;
     color: #fff;
     font-size: 16px;
     cursor: pointer;
